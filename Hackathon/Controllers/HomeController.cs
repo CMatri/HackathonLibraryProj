@@ -46,7 +46,7 @@ namespace Hackathon.Controllers
             data[0].tags = new[] { "carnival", "Downtown", "Rorer Hall", "St. Mark's Lutheran Church" };
 
             data[1] = new ResponseData();
-            data[0].url = "/7/471/Davis_1.21_Elks_Carnival_High_Wire_Act_.jpg";
+            data[1].url = "/7/471/Davis_1.21_Elks_Carnival_High_Wire_Act_.jpg";
             data[1].date = "1960s";
             data[1].id = "Davis1.25";
             data[1].publisher = "Alicia Sell";
